@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.590a871b.css",
-    "main.js": "/my-app/static/js/main.32000ced.js",
-    "index.html": "/my-app/index.html",
-    "main.590a871b.css.map": "/my-app/static/css/main.590a871b.css.map",
-    "main.32000ced.js.map": "/my-app/static/js/main.32000ced.js.map"
+    "main.css": "/Jokes-App/static/css/main.70624576.css",
+    "main.js": "/Jokes-App/static/js/main.bb0adfaa.js",
+    "index.html": "/Jokes-App/index.html",
+    "main.70624576.css.map": "/Jokes-App/static/css/main.70624576.css.map",
+    "main.bb0adfaa.js.map": "/Jokes-App/static/js/main.bb0adfaa.js.map"
   },
   "entrypoints": [
-    "static/css/main.590a871b.css",
-    "static/js/main.32000ced.js"
+    "static/css/main.70624576.css",
+    "static/js/main.bb0adfaa.js"
   ]
 }
